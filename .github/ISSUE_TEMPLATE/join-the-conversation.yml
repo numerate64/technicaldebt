@@ -1,0 +1,20 @@
+name: Join the conversation
+about: Let the organizers know you are interested in a future session
+title: "[Interest]: "
+labels: [interest]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for your interest. This issue is public—please do not include private contact details. Schedule and Zoom information will be posted on the site once confirmed."
+  - type: input
+    id: perspective
+    attributes:
+      label: What perspective or technology area would you bring?
+      placeholder: e.g. software, operations, security, product, learning
+    validations:
+      required: true
+  - type: textarea
+    id: topics
+    attributes:
+      label: What would you like to talk about?
+      placeholder: A question, trend, or problem you are thinking about

@@ -1,0 +1,34 @@
+name: Suggest a topic
+description: Propose a question for a future Technical Debt conversation
+title: "[Topic]: "
+labels: [topic]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Topic or question
+      placeholder: What technology question should the group explore?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this worth discussing now?
+      placeholder: Share the change, experience, or open question behind this idea.
+    validations:
+      required: true
+  - type: textarea
+    id: prompts
+    attributes:
+      label: Possible discussion prompts or resources (optional)
+      placeholder: Add a few questions, examples, tensions, or links.
+  - type: dropdown
+    id: help
+    attributes:
+      label: Would you like to help frame or facilitate it?
+      options:
+        - Yes
+        - Maybe—please ask me
+        - Not this time
+    validations:
+      required: true
