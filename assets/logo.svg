@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 84" role="img" aria-labelledby="title">
+  <title id="title">Technical Debt</title>
+  <rect x="2" y="6" width="72" height="72" rx="22" fill="#171a17"/>
+  <path d="M15 24h24M27 24v36" fill="none" stroke="#f6f5f0" stroke-width="5" stroke-linecap="square"/>
+  <path d="M43 36h8a10 10 0 0 1 0 20h-8z" fill="none" stroke="#b9f27c" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M39 28l-5 7" fill="none" stroke="#b9f27c" stroke-width="3" stroke-linecap="round"/>
+  <text x="91" y="34" fill="#5d7050" font-family="'DM Mono', ui-monospace, monospace" font-size="18" font-weight="500" letter-spacing="2.2">TECHNICAL</text>
+  <text x="88" y="66" fill="#171a17" font-family="Manrope, 'Avenir Next', ui-sans-serif, sans-serif" font-size="31" font-weight="800" letter-spacing="-1.8">Debt</text>
+  <path d="M160 55h21" stroke="#b9f27c" stroke-width="4" stroke-linecap="round"/>
+</svg>

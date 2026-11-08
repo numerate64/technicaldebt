@@ -6,7 +6,7 @@ Technical Debt is a planned weekly, one-hour live Zoom conversation where techno
 
 ## What the site provides
 
-- A responsive introduction to the purpose, format, and community principles
+- An original, scalable Technical Debt logo and responsive introduction to the purpose, format, and community principles
 - Example topic areas spanning AI, cloud, security, software, data, work, and society
 - GitHub issue forms to express interest or suggest a topic
 - Clear placeholders for the schedule and Zoom link until organizers confirm them
